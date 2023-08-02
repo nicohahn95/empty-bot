@@ -1,0 +1,31 @@
+[Embed]
+
+[Embed.Color]
+Red = '221 46 68'
+Yellow = '253 203 88'
+Green = '120 177 89'
+Orange = '255, 105, 37'
+
+[Embed.Emoji]
+CircleRed = ':red_circle:'
+CircleYellow = ':yellow_circle:'
+CircleGreen = ':green_circle:'
+Clock = ':alarm_clock:'
+CheckMark = ':white_check_mark:'
+X = ':x:'
+CP = ':checkered_flag:'
+Walking = ':person_walking:'
+NoEntry = ':no_entry:'
+info = ':information_source:'
+
+[Embed.Icon]
+PC = 'https://cdn.discordapp.com/emojis/1126579105270353920.png'
+PS = 'https://cdn.discordapp.com/emojis/1126579106734153758.png'
+Xbox = 'https://cdn.discordapp.com/emojis/1126579110668423318.png'
+A = 'https://cdn.discordapp.com/emojis/1126579102774730894.png'
+Y = 'https://cdn.discordapp.com/emojis/1126579115181482004.png'
+X = 'https://cdn.discordapp.com/emojis/1126579108462202991.png'
+Triangle = 'https://cdn.discordapp.com/emojis/1126579113881239634.png'
+Dpad = 'https://cdn.discordapp.com/emojis/1126579111586955326.png'
+
+

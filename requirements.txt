@@ -1,0 +1,5 @@
+# pip install -r requirements.txt
+hikari==2.0.0.dev120
+hikari-crescent==0.6.2
+tomli-w
+hikari-crescent[cooldowns]
