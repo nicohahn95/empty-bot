@@ -11,10 +11,10 @@ plugin = Plugin[GatewayBot, Model]()
 class Support:
     async def callback(self, ctx: crescent.Context) -> None:
         embed = Embed(
-            title=f"USER & ADMINISTRATION GUIDES",
+            title=f"title",
             color=plugin.model.c["Embed"]["Color"]["Orange"],
-            description=f"Default embed"
+            description=f"description"
         )
-        embed.set_thumbnail(plugin.model.c["Embed"]["Icon"]["Aria-7"])
+        embed.set_thumbnail(plugin.model.c["Embed"]["Icon"]["PC"])
 
         await ctx.respond(embed=embed, ephemeral=True)
